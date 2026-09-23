@@ -1,0 +1,8 @@
+{
+  "name": "signal-noise-multiplayer",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A fast, live multiplayer trivia game. Create a room, invite your crew, and see who can separate fact from noise.",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "express": "^5.1.0", "socket.io": "^4.8.1" }
+}
